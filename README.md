@@ -3,6 +3,7 @@
 
 
 [![NASA-Radio-Enthusiasts-Metrics](https://github.com/MojitoTea/NASA-Radio-Enthusiasts-Metrics/actions/workflows/static.yml/badge.svg)](https://github.com/MojitoTea/NASA-Radio-Enthusiasts-Metrics/actions/workflows/cicd.yml)
+![](https://github.com/MojitoTea/NASA-Radio-Enthusiasts-Metrics/blob/main/space-apps-challenge2_0.jpg)
 
 
 ## Description
