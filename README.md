@@ -12,4 +12,4 @@ This is the easiest static website to parse ham radio information.
 
 ## Preview
 
-![Image alt](https://github.com/{MojitoTea}/{NASA-Radio-Enthusiasts-Metrics}/raw/{main}/image.png)
+![Image alt](https://github.com/MojitoTea/NASA-Radio-Enthusiasts-Metrics/blob/main/Screenshot_1.png)
